@@ -1,2 +1,16 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. *
+<table>
+		<thead>
+		<tr>
+			Name
+		</tr>
+		<tr> Roll Number
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Avinash</td>
+		</tr>
+	</tbody>
+	</table>/
